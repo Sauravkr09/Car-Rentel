@@ -14,17 +14,17 @@ function Footer() {
               </li>
               <li>
                 <a href="tel:123456789">
-                  <i className="fa-solid fa-phone"></i> &nbsp; (123) -456-789
+                  <i className="fa-solid fa-phone"></i> &nbsp; (+91) 7488688311
                 </a>
               </li>
 
               <li>
                 <a
                   href="mailto: 
-                carrental@gmail.com"
+                sauravkr9012@gmail.com"
                 >
                   <i className="fa-solid fa-envelope"></i>
-                  &nbsp; carrental@xyz.com
+                  &nbsp; souravkr9012@gmail.com
                 </a>
               </li>
 
@@ -35,7 +35,7 @@ function Footer() {
                   rel="noreferrer"
                   href="https://devrahuls.vercel.app/"
                 >
-                  Design with ❤️ by Rahul
+                  Design with ❤️ by saurav 
                 </a>
               </li>
             </ul>

@@ -9,8 +9,8 @@ import Person6 from "../images/team/6.png";
 
 function Team() {
   const teamPpl = [
-    { img: Person1, name: "Luke Miller", job: "Salesman" },
-    { img: Person2, name: "Michael Diaz", job: "Business Owner" },
+    { img: Person1, name: "Saurav kumar", job: "Salesman" },
+    { img: Person2, name: "Barsa Rani", job: "Business Owner" },
     { img: Person3, name: "Briana Ross", job: "Photographer" },
     { img: Person4, name: "Lauren Rivera", job: "Car Detailist" },
     { img: Person5, name: "Martin Rizz", job: "Mechanic" },
@@ -42,7 +42,7 @@ function Team() {
               <h2>Book a car by getting in touch with us</h2>
               <span>
                 <i className="fa-solid fa-phone"></i>
-                <h3>(123) 456-7869</h3>
+                <h3>(+91) 7488688311</h3>
               </span>
             </div>
           </div>
